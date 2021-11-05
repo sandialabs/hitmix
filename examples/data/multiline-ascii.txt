@@ -1,0 +1,5 @@
+"This is the first document about lions."
+"This is the second document.
+It is a multiline document about tigers."
+"This is the third document about bears."
+"This is the fourth document about lions and tigers and bears."
