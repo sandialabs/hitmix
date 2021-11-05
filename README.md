@@ -19,8 +19,8 @@ as defined in the following paper:
 ## Quick Start
 
 ### Install
-* User: ```python3 setup.py install```
-* Developer: ```python3 setup.py develop```
+* User: ```python setup.py install```
+* Developer: ```python setup.py develop```
 
 ### Testing
 ```
